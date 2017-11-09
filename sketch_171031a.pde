@@ -1,5 +1,4 @@
 /* Reading and Visualizing EEG Data
- * by Christian Henry.
  
  * Reads in EEG data through the microphone input of the 
  * computer, then displays the signal in time, its frequency
